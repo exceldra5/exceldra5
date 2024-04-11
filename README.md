@@ -33,6 +33,7 @@ Language :
 Framework : 
 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/></a>,
 <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=plastic&logo=React&logoColor=white"/></a>,
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/></a>,
 <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white"/></a>,
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=plastic&logo=Tailwind%20CSS&logoColor=white"/><a>,
 <img src="https://img.shields.io/badge/Expo-000000?style=plastic&logo=Expo&logoColor=white"/></a>
@@ -41,6 +42,7 @@ Framework :
 <img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=Express&logoColor=white"/></a>-->
 
 Storage : 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>
 <br>
 
