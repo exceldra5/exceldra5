@@ -15,7 +15,7 @@ Double Major Electrical Engineering & Computer Science
 |---|---|---|---|---|
 |Bookend|TYPHERE|Front-end develop (React-Native)|2022.12|2023.02|
 |Bookend|[AI Deer](https://chromewebstore.google.com/detail/ai-deer/clfeejjmcegnmnhoaaffboddkajhenep?hl=ko)|Front-end develop (React)|2023.05|~|
-|KAIST Swimming Team KAORI|[KAORI](https://www.kaist-kaori.org)|Full-stack develop|2024.04|~|
+|KAIST Swimming Team KAORI|[KAORI](https://www.kaist-kaori.org)|Full-stack develop (MongoDB / FastAPI / React)|2024.04|~|
 
 ### Skills
 
