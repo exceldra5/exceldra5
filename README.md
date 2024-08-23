@@ -8,13 +8,14 @@ Double Major Electrical Engineering & Computer Science
 ### Career
 |Institution|Content|Team|Start|End|
 |---|---|---|---|---|
-|Bookend|Front-end Engineer|Dev|2022.12|~|
+|Bookend|Front-end Engineer|Dev|2022.12|2024.08|
+|KC|AI Researcher|ML2|2024.09|~|
 
 ### Projects
 |Institution|Projects|Role|Start|End|
 |---|---|---|---|---|
 |Bookend|TYPHERE|Front-end develop (React-Native)|2022.12|2023.02|
-|Bookend|[AI Deer](https://chromewebstore.google.com/detail/ai-deer/clfeejjmcegnmnhoaaffboddkajhenep?hl=ko)|Front-end develop (React)|2023.05|~|
+|Bookend|[AI Deer](https://chromewebstore.google.com/detail/ai-deer/clfeejjmcegnmnhoaaffboddkajhenep?hl=ko)|Front-end develop (React)|2023.05|2024.08|
 |KAIST Swimming Team KAORI|[KAORI](https://www.kaist-kaori.org)|Full-stack develop (MongoDB / FastAPI / React)|2024.04|~|
 
 ### Skills
