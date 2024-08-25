@@ -8,8 +8,8 @@ Double Major Electrical Engineering & Computer Science
 ### Career
 |Institution|Content|Team|Start|End|
 |---|---|---|---|---|
-|Bookend|Front-end Engineer|Dev|2022.12|2024.08|
-|KC|AI Researcher|ML2|2024.09|~|
+|[Bookend](https://www.bookend.tech/)|Front-end Engineer|Dev|2022.12|2024.08|
+|KC|AI Researcher|[ML2](https://www.kc-ml2.com/)|2024.09|~|
 
 ### Projects
 |Institution|Projects|Role|Start|End|
