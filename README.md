@@ -3,13 +3,15 @@
 ### Study
 Sejong Academy of Science and Arts(2015.03\~2018.02) in Sejong, Korea<br>
 Korea Advanced Institute of Science and Technology(2018.03\~present) in Daejeon, Korea<br>
-Double Major Electrical Engineering & Computer Science
+Double Major Electrical Engineering & Computer Science<br>
+Interested in AI Robotics and Deep Learning
 
 ### Career
 |Institution|Content|Team|Start|End|
 |---|---|---|---|---|
 |[Bookend](https://www.bookend.tech/)|Front-end Engineer|Dev|2022.12|2024.08|
 |KC|AI Researcher|[ML2](https://www.kc-ml2.com/)|2024.09|~|
+|[AI Robotics KR](https://www.facebook.com/groups/airoboticskr)|Managing|Manager|2024.10|~|
 
 ### Projects
 |Institution|Projects|Role|Start|End|
