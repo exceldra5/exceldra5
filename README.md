@@ -10,20 +10,17 @@ Interested in AI Robotics and Deep Learning
 |Institution|Content|Team|Start|End|
 |---|---|---|---|---|
 |[Bookend](https://www.bookend.tech/)|Front-end Engineer|Dev|2022.12|2024.08|
-|KC|AI Researcher|[ML2](https://www.kc-ml2.com/)|2024.09|~|
+|KC|Research Intern|[ML2](https://www.kc-ml2.com/)|2024.09|~|
 |[AI Robotics KR](https://www.facebook.com/groups/airoboticskr)|Managing|Manager|2024.10|~|
 
 ### Projects
 |Institution|Projects|Role|Start|End|
 |---|---|---|---|---|
 |Bookend|TYPHERE|Front-end develop (React-Native)|2022.12|2023.02|
-|Bookend|[AI Deer](https://chromewebstore.google.com/detail/ai-deer/clfeejjmcegnmnhoaaffboddkajhenep?hl=ko)|Front-end develop (React)|2023.05|2024.08|
+|Bookend|[Sentencify](https://chromewebstore.google.com/detail/ai-deer/clfeejjmcegnmnhoaaffboddkajhenep?hl=ko)|Front-end develop (React)|2023.05|2024.08|
 |KAIST Swimming Team KAORI|[KAORI](https://www.kaist-kaori.org)|Full-stack develop (MongoDB / FastAPI / React)|2024.04|~|
 
 ### Skills
-
-Editor : 
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/></a>
 
 Language : 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/></a>,
@@ -31,7 +28,8 @@ Language :
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/></a>,
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic&logo=Typescript&logoColor=white"/></a>,
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>,
-<img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"/></a>,
+<img src="https://img.shields.io/badge/-C++-blue?style=plastic&logo=cplusplus"/></a>
 <br>
 
 Framework : 
