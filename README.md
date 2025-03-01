@@ -10,7 +10,7 @@ Interested in AI Robotics and Deep Learning
 |Institution|Content|Team|Start|End|
 |---|---|---|---|---|
 |[Bookend](https://www.bookend.tech/)|Front-end Engineer|Dev|2022.12|2024.08|
-|KC|Research Intern|[ML2](https://www.kc-ml2.com/)|2024.09|~|
+|KC|Research Intern|[ML2](https://www.kc-ml2.com/)|2024.09|2025.02|
 |[AI Robotics KR](https://www.facebook.com/groups/airoboticskr)|Managing|Manager|2024.10|~|
 
 ### Projects
