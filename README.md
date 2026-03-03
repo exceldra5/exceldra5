@@ -8,7 +8,7 @@ Interested in Robot perception and Software developing
 **💼 Work Experience**
 |Company|Content|Team|Start|End|
 |---|---|---|---|---|
-|[Urban Robotics Lab](https://urobot.kaist.ac.kr/)|Research Intern|URL|2025.06|~|
+|[Urban Robotics Lab](https://urobot.kaist.ac.kr/)|Research Intern|URL|2025.06|2026.02|
 |KC|Research Intern|[ML2](https://www.kc-ml2.com/)|2024.09|2025.02|
 |[Bookend](https://www.bookend.tech/)|Software Engineer|Dev|2022.12|2024.08|
 
