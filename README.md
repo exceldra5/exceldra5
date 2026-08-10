@@ -8,7 +8,7 @@ Interested in **Computer Vision** and **Robot Perception**, building **Spatial I
 **🔬 Research Experience**
 |Lab|Role|Content|Start|End|
 |---|---|---|---|---|
-|[NMAIL](http://nmail.kaist.ac.kr/), KAIST|Research Intern|Robot Perception / Vision-Language-Action Models|2026.03|~|
+|[NMAIL](http://nmail.kaist.ac.kr/), KAIST|Research Intern|Robot Perception|2026.03|2026.07|
 |[URL](https://urobot.kaist.ac.kr/), KAIST|Research Intern|Robot Perception|2025.06|2026.02|
 |[KC-ML2](https://www.kc-ml2.com/)|Research Intern|Relocalization for Robot Mapping|2024.08|2025.02|
 
