@@ -15,10 +15,10 @@ Interested in **Computer Vision** and **Robot Perception**, building **Spatial I
 **💼 Work Experience**
 |Company|Role|Content|Start|End|
 |---|---|---|---|---|
-|[Bookend](https://www.bookend.tech/)|Software Engineer|[Sentencify](https://chromewebstore.google.com/detail/sentencify-multilingual-a/clfeejjmcegnmnhoaaffboddkajhenep?hl=ko) — multilingual AI writing tool (React / FastAPI / MongoDB)|2022.12|2024.08|
+|[Bookend](https://www.bookend.tech/)|Software Engineer|[Sentencify](https://chromewebstore.google.com/detail/sentencify-multilingual-a/clfeejjmcegnmnhoaaffboddkajhenep?hl=ko) — multilingual AI writing tool|2022.12|2024.08|
 
 **🚀 Projects**
 |Project|Content|Role|Start|End|
 |---|---|---|---|---|
-|[CareON](https://github.com/exceldra5/Careon)|Safe medical AI for post-discharge AML care — [Excellence Award](https://exceldra5.github.io/assets/projects/careon/certificate.jpeg), Medical AI Competition 2026|AI & Systems (FastAPI / Flutter)|2026.07|2026.07|
-|[KAORI](https://www.kaist-kaori.org)|KAIST Swimming Team web platform|Full-stack (React / FastAPI / MongoDB)|2024.04|~|
+|[CareON](https://github.com/exceldra5/Careon)|Safe medical AI for post-discharge AML care — [Excellence Award](https://exceldra5.github.io/assets/projects/careon/certificate.jpeg), Medical AI Competition 2026|AI & Systems|2026.07|2026.07|
+|[KAORI](https://www.kaist-kaori.org)|KAIST Swimming Team web platform|Full-stack|2024.04|~|
