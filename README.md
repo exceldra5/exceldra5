@@ -3,16 +3,22 @@
 [🔗 LinkedIn](https://linkedin.com/in/exceldra5) | 
 [📄 CV](https://exceldra5.github.io/assets/cv/sy_cv.pdf)
 
-Interested in Robot perception and Software developing
+Interested in **Computer Vision** and **Robot Perception**, building **Spatial Intelligence** with SLAM and Vision-Language Models
+
+**🔬 Research Experience**
+|Lab|Role|Content|Start|End|
+|---|---|---|---|---|
+|[NMAIL](http://nmail.kaist.ac.kr/), KAIST|Research Intern|Robot Perception / Vision-Language-Action Models|2026.03|~|
+|[URL](https://urobot.kaist.ac.kr/), KAIST|Research Intern|Robot Perception|2025.06|2026.02|
+|[KC-ML2](https://www.kc-ml2.com/)|Research Intern|Relocalization for Robot Mapping|2024.08|2025.02|
 
 **💼 Work Experience**
-|Company|Content|Team|Start|End|
+|Company|Role|Content|Start|End|
 |---|---|---|---|---|
-|KC|Research Intern|[ML2](https://www.kc-ml2.com/)|2024.09|2025.02|
-|[Bookend](https://www.bookend.tech/)|Software Engineer|Dev|2022.12|2024.08|
+|[Bookend](https://www.bookend.tech/)|Software Engineer|[Sentencify](https://chromewebstore.google.com/detail/sentencify-multilingual-a/clfeejjmcegnmnhoaaffboddkajhenep?hl=ko) — multilingual AI writing tool (React / FastAPI / MongoDB)|2022.12|2024.08|
 
 **🚀 Projects**
-|Institution|Projects|Role|Start|End|
+|Project|Content|Role|Start|End|
 |---|---|---|---|---|
-|KAIST Swimming Team KAORI|[KAORI](https://www.kaist-kaori.org)|Full-stack develop (MongoDB / FastAPI / React)|2024.04|~|
-|Bookend|[Sentencify](https://chromewebstore.google.com/detail/ai-deer/clfeejjmcegnmnhoaaffboddkajhenep?hl=ko)|Front-end develop (React)|2023.05|2024.08|
+|[CareON](https://github.com/exceldra5/Careon)|Safe medical AI for post-discharge AML care — [Excellence Award](https://exceldra5.github.io/assets/projects/careon/certificate.jpeg), Medical AI Competition 2026|AI & Systems (FastAPI / Flutter)|2026.07|2026.07|
+|[KAORI](https://www.kaist-kaori.org)|KAIST Swimming Team web platform|Full-stack (React / FastAPI / MongoDB)|2024.04|~|
